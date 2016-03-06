@@ -4,6 +4,7 @@ Does your pump support #openaps?
 
 ## Medtronic
 
+### Paradigm Series
 * Manuals: http://www.manualslib.com/products/Medtronic-Paradigm-522-3644601.html
 
 We'd like the serial protocol to the Carelink USB stick, aka `MMT-7305NA`. 
@@ -18,9 +19,13 @@ indicates intended use is:
 > Paradigm-compatible RF telemetry (MWT1)
 * and a personal computer that uses data management application software.
 
+* We'd like a document that explains how to use the Contour NextLink as an electronic data interface to the pump.
+* We'd like documentation on various commands: set temp basal, set basal, bolus, retrieve history, check settings, set settings.
 
-### Paradigm Series
 ### 640, 670
+* We'd like a document that explains how to use the Contour NextLink as an electronic data interface to the pump.
+* We'd like a document explaining how the RF communications with the pump work.[
+* We'd like documentation on various commands: set temp basal, set basal, bolus, retrieve history, check settings, set settings.
 
 ## Roche
 ### AccuCheck
@@ -45,8 +50,9 @@ The need and desire to connect medical devices to each other as well as other
 products, technologies, and systems is growing in the healthcare community.
 This interconnectivity of various products or systems that includes $MYPUMP.
 
-The $USERMANUAL user manual for $MYPUMP has been reviewed carefully, but it doesn't contain some of
-information I need to use the device.  Can we receive a copy of the
+The $USERMANUAL user manual for $MYPUMP has been reviewed carefully, but it
+doesn't contain some of information I need to use the device.  Can we receive a
+copy of the
 documentation missing from published manuals, which would include:
   * method of communicating data from device
     * often known as the "communication protocol"
